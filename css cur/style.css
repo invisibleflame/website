@@ -104,6 +104,9 @@ p{
 	width:130px;
 	margin:0 auto 35px;
 }
+.img-fluid{
+	size:400%;
+}
 .header h1{
 	font-family: 'Montserrat',sans-serif;
 	font-size:50px;
