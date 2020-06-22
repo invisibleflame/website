@@ -1,10 +1,10 @@
 // Initialize Firebase (ADD YOUR OWN DATA)
 var config = {
 apiKey: "AIzaSyCFXQqvJGGpcNeSittYro6zy5e03itmDLg",
-  authDomain: "ideainnovationcell.firebaseapp.com",
-  databaseURL: "https://ideainnovationcell.firebaseio.com",
-  projectId: "ideainnovationcell",
-  storageBucket: "ideainnovationcell.appspot.com",
+  authDomain: ".firebaseapp.com",
+  databaseURL: "",
+  projectId: "",
+  storageBucket: ".appspot.com",
   messagingSenderId: "368936158980",
   appId: "1:368936158980:web:14751bb19594425bfcb251",
   measurementId: "G-4E9R4VDDRL"
